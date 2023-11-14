@@ -2,6 +2,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.blank {
+
+}
+
 button {
   background-color: #04AA6D; /* Green */
   border: none;
